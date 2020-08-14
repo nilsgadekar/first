@@ -1,6 +1,10 @@
 new file
 add
 
+beans
+cocobean
+
+
 welcome to kitchen
 
 
